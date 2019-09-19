@@ -24,6 +24,7 @@ const reader = readline.createInterface({
 // }
 
 const branch = 'develop';
+const master = 'toto';
 const body = {
   grant_type : 'password',
   username : 'ogea2',
