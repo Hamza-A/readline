@@ -23,6 +23,7 @@ const reader = readline.createInterface({
 //   reader.close();
 // }
 
+const branch = 'develop';
 const body = {
   grant_type : 'password',
   username : 'ogea2',
