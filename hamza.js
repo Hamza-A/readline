@@ -6,10 +6,10 @@ const reader = readline.createInterface({
   output: process.stdout
 });
 const b = 'b';
-function line(nine){
-    console.log(9);
-}
 
+function line(ten){
+    console.log(10);
+}
 
 // reader.question("What is your name? ", (name) => {
 //   console.log(`Hello ${name}!`);
