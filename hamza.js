@@ -90,7 +90,7 @@ function line(eightynine){
     console.log(89);
 }
 
-
+const random = "random string";
 // function calculator(table){
 //   return table.map(x => x * 2);
 // }
