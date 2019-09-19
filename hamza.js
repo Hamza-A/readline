@@ -85,11 +85,10 @@ function randomlyAdded(){
 
 call();
 
-function line(eightyeigth)
-{
-    console.log((88));
-}
 
+function line(eightynine){
+    console.log(89);
+}
 
 
 // function calculator(table){
