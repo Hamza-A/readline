@@ -5,8 +5,7 @@ const reader = readline.createInterface({
   input: process.stdin,
   output: process.stdout
 });
-const a = 'a';
-
+const b = 'b';
 
 
 
