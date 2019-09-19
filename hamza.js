@@ -48,6 +48,10 @@ function call(){
     .then(modulr => console.log(modulr));
 }
 
+function randomlyAdded(){
+    console.log('random');
+}
+
 
 // function ask(){
 // reader.question("How do you feel? ", greet);
