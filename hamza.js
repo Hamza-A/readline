@@ -6,7 +6,9 @@ const reader = readline.createInterface({
   output: process.stdout
 });
 const b = 'b';
-
+function line(nine){
+    console.log(9);
+}
 
 
 // reader.question("What is your name? ", (name) => {
