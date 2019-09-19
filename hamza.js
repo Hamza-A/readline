@@ -34,6 +34,9 @@ const body = {
   scope : 'openid profile'
 };
 
+const ajout = "string ajoutée";
+
+
 function call(){
   fetch('https://preprod.idpdecathlon.oxylane.com/as/token.oauth2', {
     method: 'post',
