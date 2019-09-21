@@ -11,10 +11,6 @@ function line(ten){
     console.log(10);
 }
 
-function merge(request){
-    console.log(request);
-}
-
 // reader.question("What is your name? ", (name) => {
 //   console.log(`Hello ${name}!`);
 //
