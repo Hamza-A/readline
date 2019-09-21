@@ -15,6 +15,10 @@ function merge(request){
     console.log(request);
 }
 
+function rebase(develop){
+    console.log(develop);
+}
+
 // reader.question("What is your name? ", (name) => {
 //   console.log(`Hello ${name}!`);
 //
