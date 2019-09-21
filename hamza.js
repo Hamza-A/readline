@@ -25,6 +25,7 @@ function line(ten){
 //   reader.close();
 // }
 
+const commit = 'merging';
 
 const adding = "line 29";
 
